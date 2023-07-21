@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tabeya
 - 👀 I’m interested in making numbers talk
-- 🌱 I’m currently learning how to code in Python/R
+- 🌱 I’m currently learning how to code in Python/R (nothing fancy - YET)
 - 💞️ I’m looking to collaborate on Data Analyst remote positions - specialized knowledge in agriculture (engineer degree in agriculture/environment)
-- 📫 How to reach me : through Github discussions
+- 📫 How to reach me : just send a message
